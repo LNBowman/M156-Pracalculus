@@ -20,13 +20,5 @@ Writing the Equation of a Line
 Simplify the sum of two monomials.
             </description>
         </outcome>
-    <outcome>
-            <title>Other-Slope</title>
-            <slug>other-slope</slug>
-            <path>outcomes/slope</path>
-            <description>
-Finding the slope of a line.
-            </description>
-        </outcome>
     </outcomes>
 </bank>

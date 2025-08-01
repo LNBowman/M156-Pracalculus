@@ -4,14 +4,6 @@
     <slug>new-checkit-bank</slug>
     <url>https://checkit.clontz.org</url>
     <outcomes>
-    <outcome>
-            <title>BF-2 Forms of Lines</title>
-            <slug>BF2</slug>
-            <path>outcomes/BF2</path>
-            <description>
-Writing the Equation of a Line
-            </description>
-        </outcome>
         <outcome>
             <title>Sample Outcome</title>
             <slug>EX1</slug>

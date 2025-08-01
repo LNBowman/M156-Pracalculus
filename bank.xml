@@ -4,12 +4,28 @@
     <slug>new-checkit-bank</slug>
     <url>https://checkit.clontz.org</url>
     <outcomes>
+    <outcome>
+            <title>BF-2 Forms of Lines</title>
+            <slug>BF2</slug>
+            <path>outcomes/BF2</path>
+            <description>
+Writing the Equation of a Line
+            </description>
+        </outcome>
         <outcome>
             <title>Sample Outcome</title>
             <slug>EX1</slug>
             <path>outcomes/EX1</path>
             <description>
 Simplify the sum of two monomials.
+            </description>
+        </outcome>
+    <outcome>
+            <title>Other-Slope</title>
+            <slug>other-slope</slug>
+            <path>outcomes/slope</path>
+            <description>
+Finding the slope of a line.
             </description>
         </outcome>
     </outcomes>
